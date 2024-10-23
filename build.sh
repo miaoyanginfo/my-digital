@@ -22,6 +22,9 @@ git clone https://github.com/79e/hexo-theme-quiet themes/quiet
 # npm install hexo-word-counter
 # npm install hexo-generator-feed --save
 # npm install hexo-generator-sitemap --save
+npm i hexo-renderer-less
+npm i hexo-renderer-ejs
+
 # 搜索相关插件
 # npm install hexo-generator-search --save
 # npm install hexo-generator-searchdb
