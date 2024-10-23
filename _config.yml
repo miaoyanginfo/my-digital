@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 渊澄优选
+subtitle: '优选二手数码'
 description: ''
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: 渊澄小白
+language: zh_CN
+timezone: 'shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

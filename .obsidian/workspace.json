@@ -11,10 +11,14 @@
             "id": "33438b371d00b7a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/about/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -168,6 +172,7 @@
   },
   "active": "33438b371d00b7a9",
   "lastOpenFiles": [
+    "_config.butterfly.yml",
     "db.json",
     "public/image/pattern.png",
     "public/image/logo.png",
@@ -180,7 +185,6 @@
     "public/css/public/content.css",
     "public/css/public/color.css",
     "public/css/public/article_cente.css",
-    "public/css/plugin/fancybox.css",
     "source/about/index.md.md"
   ]
 }
