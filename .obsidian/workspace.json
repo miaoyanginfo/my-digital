@@ -168,8 +168,19 @@
   },
   "active": "33438b371d00b7a9",
   "lastOpenFiles": [
-    "node_modules/fsevents",
-    "source/about/index.md.md",
-    "source/about"
+    "db.json",
+    "public/image/pattern.png",
+    "public/image/logo.png",
+    "public/css/widget/header_body.css",
+    "public/css/widget/header.css",
+    "public/css/widget/grouping.css",
+    "public/css/widget/food.css",
+    "public/css/public/mixins.css",
+    "public/css/public/header_background.css",
+    "public/css/public/content.css",
+    "public/css/public/color.css",
+    "public/css/public/article_cente.css",
+    "public/css/plugin/fancybox.css",
+    "source/about/index.md.md"
   ]
 }
