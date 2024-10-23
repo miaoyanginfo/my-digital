@@ -15,15 +15,15 @@ git clone https://github.com/next-theme/hexo-theme-next themes/next
 ## git clone https://github.com/79e/hexo-theme-quiet themes/quiet
 # 使用新的渲染器
 
-# npm un hexo-renderer-marked --save
-# npm i hexo-renderer-markdown-it --save
+ npm un hexo-renderer-marked --save
+ npm i hexo-renderer-markdown-it --save
 # npm i --save hexo-wordcount
 # npm install hexo-related-posts
 # npm install hexo-word-counter
 # npm install hexo-generator-feed --save
 # npm install hexo-generator-sitemap --save
-npm i hexo-renderer-less
-npm i hexo-renderer-ejs
+#npm i hexo-renderer-less
+#npm i hexo-renderer-ejs
 
 # 搜索相关插件
 # npm install hexo-generator-search --save
