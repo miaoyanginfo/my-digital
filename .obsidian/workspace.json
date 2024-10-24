@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "73773b18fcfdc394",
+        "id": "9333c1c0a2024a95",
         "type": "tabs",
         "children": [
           {
-            "id": "33438b371d00b7a9",
+            "id": "060b9f32f1619e81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/ThinkPad/测试文字.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "测试文字"
+              "title": "新标签页"
             }
           }
         ]
@@ -170,12 +166,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "33438b371d00b7a9",
+  "active": "060b9f32f1619e81",
   "lastOpenFiles": [
     "source/_posts/ThinkPad/测试文字.md",
-    "source/_posts/ThinkPad",
     "db.json",
     "public/img/butterfly-icon.png",
+    "public/img/404.jpg",
+    "public/img/friend_404.gif",
+    "public/img/error-page.png",
     "public/js/search/local-search.js",
     "public/js/search/algolia.js",
     "public/js/utils.js",
@@ -183,10 +181,8 @@
     "public/js/tw_cn.js",
     "public/js/main.js",
     "public/js",
-    "public/img/favicon.ico",
-    "public/img/friend_404.gif",
-    "public/img/404.jpg",
-    "public/img/error-page.png",
+    "public/tags/联想/index.html",
+    "public/categories/ThinkPad/index.html",
     "public/image/pattern.png",
     "public/image/logo.png",
     "source/about/index.md.md"
