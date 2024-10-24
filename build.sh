@@ -15,6 +15,8 @@ mkdir -p source/_posts
 git clone https://github.com/79e/hexo-theme-quiet themes/quiet
 # 使用新的渲染器
 
+npm i hexo-renderer-less
+npm i hexo-renderer-ejs
 # npm un hexo-renderer-marked --save
 # npm i hexo-renderer-markdown-it --save
 # npm i --save hexo-wordcount
