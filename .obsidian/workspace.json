@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/about/index.md",
+                "file": "source/_posts/ThinkPad/测试文字.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "测试文字"
             }
           }
         ]
@@ -170,8 +170,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2933812dc64a3a62",
+  "active": "33438b371d00b7a9",
   "lastOpenFiles": [
+    "source/_posts/ThinkPad/测试文字.md",
+    "source/_posts/ThinkPad",
     "db.json",
     "public/img/butterfly-icon.png",
     "public/js/search/local-search.js",
@@ -183,8 +185,6 @@
     "public/js",
     "public/img/favicon.ico",
     "public/img/friend_404.gif",
-    "public/css/index.css",
-    "public/css/var.css",
     "public/img/404.jpg",
     "public/img/error-page.png",
     "public/image/pattern.png",
