@@ -11,12 +11,12 @@ mkdir -p source/_posts
 
 ## 安装主题(你们可以改成自己喜欢的主题)
 ## git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly
-git clone https://github.com/next-theme/hexo-theme-next themes/next
-## git clone https://github.com/79e/hexo-theme-quiet themes/quiet
+## git clone https://github.com/next-theme/hexo-theme-next themes/next
+git clone https://github.com/79e/hexo-theme-quiet themes/quiet
 # 使用新的渲染器
 
- npm un hexo-renderer-marked --save
- npm i hexo-renderer-markdown-it --save
+# npm un hexo-renderer-marked --save
+# npm i hexo-renderer-markdown-it --save
 # npm i --save hexo-wordcount
 # npm install hexo-related-posts
 # npm install hexo-word-counter
